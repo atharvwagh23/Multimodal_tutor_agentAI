@@ -248,3 +248,5 @@ uv run python main.py path/to/image.png
 ## 👤 Author
 
 **Atharv Wagh** · [GitHub](https://github.com/atharvwagh23)
+
+
